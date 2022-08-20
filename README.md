@@ -4,7 +4,7 @@
 
 <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UkemeSkywalker&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📋 Languages
 
@@ -91,7 +91,7 @@
 
 
 ## My Blog Posts
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) [Here](https://dev.to/ukemzyskywalker)
 
 
 <!--
