@@ -1,12 +1,13 @@
 ### Hi there, I'm Ukeme 👋
 
-<img align="left" with="47%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=blue-green&show_icons=true" />
+<img align="left" with="47%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=prussian&show_icons=true" />
 
-<img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<!-- <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
 
 ### 📋 Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📚 Frameworks, Platforms and Libraries
