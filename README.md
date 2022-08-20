@@ -33,14 +33,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/dynamoDB-%23DD0031.svg?style=for-the-badge&logo=dynamoDB&logoColor=white)
 
-<!--
+### 🥅 Infrastructure as a service (IaaS)
+
+![AWS](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
 
 ### 🥅 Other
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-005571?style=for-the-badge&logo=git)
+![Travis](https://img.shields.io/badge/Travis-%230A0FFF.svg?style=for-the-badge&logo=travis&logoColor=white)
 
+<!--
 
 ## My Blog Posts
 
