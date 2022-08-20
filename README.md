@@ -1,8 +1,8 @@
 ### Hi there, I'm Ukeme 👋,
+
 #### Web, Cloud, Smart Contract Developer
 
-<img align="left" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true" />
-
+<img align="right" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true" />
 
 ### 📋 Languages
 
@@ -86,13 +86,12 @@
 
 ## My Blog Posts
 
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) 
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 [Click Here to view blog post](https://dev.to/ukemzyskywalker)
 
 ### 💬 Social
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 
