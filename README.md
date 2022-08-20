@@ -1,8 +1,8 @@
 ### Hi there, I'm Ukeme 👋
 
-<img align="left" with="47%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=prussian&show_icons=true" />
+<img align="left" with="47%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true" />
 
-<!-- <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
+<img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 ### 📋 Languages
 
