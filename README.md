@@ -4,7 +4,7 @@
 
 <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UkemeSkywalker&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UkemeSkywalker&repo=github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
 
 ### 📋 Languages
 
@@ -28,18 +28,15 @@
 
 ### 💾 Databases
 
-![MySQL](https://img.shields.io/badge/mqysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mqysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/dynamoDB-%23DD0031.svg?style=for-the-badge&logo=dynamoDB&logoColor=white)
 
-### 🥅 Infrastructure as a service (IaaS)
+### 🥅 Iaas, DevOps & Other
 
 ![AWS](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%230db7ed.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-### 🥅 Other
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-005571?style=for-the-badge&logo=git)
