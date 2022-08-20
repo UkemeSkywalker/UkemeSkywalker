@@ -43,9 +43,13 @@
 ![Travis](https://img.shields.io/badge/Travis-%230A0FFF.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/Cpanel-%230A0FFF.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 
+## My Blog Posts
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
+
 <!--
 
-## My Blog Posts
+
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
