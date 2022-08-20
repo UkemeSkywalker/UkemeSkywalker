@@ -8,9 +8,12 @@
 
 ### 📋 Languages
 
+![Html](https://img.shields.io/badge/html-%23007ACC.svg?style=for-the-badge&logo=html&logoColor=white)
+![Css](https://img.shields.io/badge/css-%23007ACC.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Solidity](https://img.shields.io/badge/solidity-%23323330.svg?style=for-the-badge&logo=solidity&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=bash&logoColor=%23F7DF1E)
 
 ### 📚 Frameworks, Platforms and Libraries
 
