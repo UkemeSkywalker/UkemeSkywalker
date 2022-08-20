@@ -36,7 +36,7 @@
 ### 🥅 Infrastructure as a service (IaaS)
 
 ![AWS](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%230db7ed.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 🥅 Other
 
@@ -44,6 +44,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-005571?style=for-the-badge&logo=git)
 ![Travis](https://img.shields.io/badge/Travis-%230A0FFF.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Cpanel](https://img.shields.io/badge/Cpanel-%230A0FFF.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 
 <!--
 
