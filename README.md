@@ -4,6 +4,8 @@
 
 <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=UkemeSkywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UkemeSkywalker&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📋 Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
