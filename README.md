@@ -1,6 +1,8 @@
-### Hi there, I'm Ukeme 👋
+### Hi there, I'm Ukeme 👋,
+#### Web, Cloud, Smart Contract Developer
 
-<img align="left" with="47%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true" />
+<img align="left" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true" />
+
 
 ### 📋 Languages
 
