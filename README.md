@@ -8,8 +8,8 @@
 
 ### 📋 Languages
 
-![Html](https://img.shields.io/badge/html-%23007ACC.svg?style=for-the-badge&logo=html&logoColor=white)
-![Css](https://img.shields.io/badge/css-%23007ACC.svg?style=for-the-badge&logo=css&logoColor=white)
+![Html](https://img.shields.io/badge/html5-%23007ACC.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%23323330.svg?style=for-the-badge&logo=solidity&logoColor=%23F7DF1E)
@@ -17,16 +17,14 @@
 
 ### 📚 Frameworks, Platforms and Libraries
 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Truffle](https://img.shields.io/badge/truffle-%2338B2AC.svg?style=for-the-badge&logo=truffle&logoColor=white)
+![Hardhat](https://img.shields.io/badge/hardhat.js-%23404d59.svg?style=for-the-badge&logo=hardhat&logoColor=%2361DAFB)
+![Ethers.js](https://img.shields.io/badge/ethers.js-%23404d59.svg?style=for-the-badge&logo=ethers&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Wordpress](https://img.shields.io/badge/wordpress-%23404d59.svg?style=for-the-badge&logo=wordpress&logoColor=%2361DAFB)
 
 ### 💾 Databases
 
