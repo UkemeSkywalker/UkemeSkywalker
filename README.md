@@ -2,7 +2,7 @@
 
 #### Web, Cloud, Smart Contract Developer
 
-<img align="right" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true" />
+<img align="right" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true&card_width=100" />
 
 ### 📋 Languages
 
