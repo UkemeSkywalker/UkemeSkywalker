@@ -1,6 +1,6 @@
 ### Hi there, I'm Ukeme 👋,
 
-#### Web, Cloud, Smart Contract Developer
+#### Cloud Engineer / Web / Smart Contract Developer
 
 <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true&card_width=100" />
 
@@ -11,7 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=bash&logoColor=%23F7DF1E)
 
