@@ -1,11 +1,10 @@
 ### Hi there, I'm Ukeme 👋,
 
-#### Cloud Engineer /Blockchain Developer
+#### Cloud DevOps Engineer (Infrastructure) /Blockchain Developer
 
 <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=UkemeSkywalker&count_private=true&theme=radical&show_icons=true&card_width=100" />
 
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UkemeSkywalker&theme=dark&layout=compact)](https://git.io/streak-stats)
-
 
 ### languages
 
@@ -20,9 +19,6 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-
-
 ### 💬 Social
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -33,21 +29,19 @@
 </p>
 <!--
 
-
-
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <!--
+
 ### 🎓 Education
+
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-
 
 <!--
 **UkemeSkywalker/UkemeSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
